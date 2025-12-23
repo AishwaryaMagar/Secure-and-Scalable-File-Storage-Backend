@@ -1,6 +1,6 @@
 
 
-# SimplyShare
+# Secure and Scalable File Storage Backend
 
 A modern Google Drive–style cloud storage app built with **Next.js (React)** and **Spring Boot**. It focuses on smooth uploads, secure file sharing, and instant previews powered by **AWS S3**.
 
@@ -172,44 +172,6 @@ Backend handles authentication, validation, metadata management, caching, and de
 
 </div>
 
-
----
-## Developer's contact
----
-<div align="center">
-  
-  <!-- Profile Image -->
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="130" style="border-radius: 50%; border: 3px solid #ccc;" alt="Developer Profile Picture"/>
-
-  <!-- Name & Role -->
-  <h2><b>Surja Kumar Jana</b></h2>
-  <p><i>Aspiring Backend Developer | (Java • Spring Boot • MySQL • AWS)</i></p>
-  <p>📍 India</p>
-
-  <!-- Contact Badges -->
-  <p>
-    <a href="mailto:janaofficial0110@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/SurjaKumarJana"  target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://www.linkedin.com/in/surjakumarjana" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
-
-  <!-- Motto -->
-  <p align="center">
-    💬 <i>“Building scalable backend systems with Java and gradually expanding into Full Stack Development.”</i>
-  </p>
-
-</td>
-
-
-</div>
-
----
 
 This is a personal practice project to learn and apply modern full-stack and backend technologies. The design is intentionally modular so the monolith can be split into microservices later.
 
